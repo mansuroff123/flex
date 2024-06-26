@@ -1,0 +1,23 @@
+* {margin: 0;}
+.box-1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.box-2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.box-3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box-group {
+    background-color: coral;
+    display: flex;
+}
